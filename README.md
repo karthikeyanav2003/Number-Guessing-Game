@@ -10,9 +10,9 @@ OUTPUT:
 
 ![output1](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/091a8203-17d6-4589-ad2f-301eda379fba)
 
-![output5](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/46991375-5243-4347-9562-fd6abd381621)
-
 ![output2](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/9eea8760-c73a-4fac-be83-b0264dc052e5)
+
+![output5](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/46991375-5243-4347-9562-fd6abd381621)
 
 ![output3](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/d88a9a77-5572-4526-b3cd-4a0f5ffdb887)
 
