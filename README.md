@@ -8,7 +8,7 @@ OUTPUT:
 
 1.Attempts:
 
-![output1](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/45206e02-3d53-4d94-9fe3-66e90628962c)
+![output1](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/091a8203-17d6-4589-ad2f-301eda379fba)
 
 ![output5](https://github.com/karthikeyanav2003/PRODIGY_SD_02/assets/145100980/46991375-5243-4347-9562-fd6abd381621)
 
