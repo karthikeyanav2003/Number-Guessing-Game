@@ -1,4 +1,4 @@
-# PRODIGY_SD_02
+# Number Guessing Game
 ABSTRACT:
 The Number Guessing Game is an engaging project that combines the thrill of random number generation with an interactive graphical user interface. The objective of the game is for the player to correctly guess the randomly assigned number within a limited number of attempts. Developed using Python and the Tkinter library, this project offers an entertaining and educational experience.
 
